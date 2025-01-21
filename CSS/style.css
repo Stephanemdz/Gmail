@@ -1,0 +1,20 @@
+header{
+    background-color: #D9D9D9;
+    justify-content: space-around;
+}
+header a{
+    text-decoration: none;
+    margin-left: 10rem;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+h3{
+    background-color: beige;
+}
+h1{
+    background-color: bisque;
+}
