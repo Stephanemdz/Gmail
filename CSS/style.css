@@ -111,7 +111,7 @@ header nav ul .create-account-button:hover{
   position: relative;
   width: 100%;
   height: 100vh;
-  background-image: url(../asset/home-hero.jpg);
+  background-image: url(/Asset/home-hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
