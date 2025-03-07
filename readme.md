@@ -26,9 +26,9 @@ Découvrez une interface inspirée de Gmail, conçue pour offrir une expérience
 
 ![Logo Gmail](./asset/mail.png)
 
-## Lien vers la Publication Modifiable 
+## Lien vers la Publication 
 
-[Modifiez la description de votre projet ici](VOTRE_LIEN_ICI)
+[Publication](https://stephanemdz.github.io/Gmail/)
 
 ## Améliorations Futures 
 
