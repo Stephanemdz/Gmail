@@ -24,7 +24,7 @@ Découvrez une interface inspirée de Gmail, conçue pour offrir une expérience
 
 ## Aperçu Visuel ️
 
-![Logo Gmail](./asset/mail.png)
+![Logo Gmail](/Asset/gmail.png)
 
 ## Lien vers la Publication 
 
